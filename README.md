@@ -5,6 +5,13 @@ This repository provides an example of using a Gaussian Mixture Models to detect
 More details can be found in the paper associated with this repository.
 
 
+## Installation
+
+To install the required Python packages, run:
+
+```bash
+pip install -r requirements.txt
+
 ## License
 
 This code is licensed under the MIT License.

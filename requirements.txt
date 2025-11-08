@@ -1,0 +1,18 @@
+# requirements.txt
+# This file lists all Python packages required to run the notebook.
+# Each package includes a brief description of its purpose.
+
+# NumPy: Fundamental package for numerical computations
+numpy
+
+# Matplotlib: Plotting library for creating static, animated, and interactive visualizations
+matplotlib
+
+# Pandas: Data manipulation and analysis library
+pandas
+
+# scikit-learn: Machine learning library for classification, regression, clustering, etc.
+scikit-learn
+
+# Seaborn: Statistical data visualization built on top of Matplotlib
+seaborn
